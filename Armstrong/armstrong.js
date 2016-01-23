@@ -75,7 +75,7 @@ function isNarcissistic(n) {
     if (n == 0)
         return false;
 
-    return n == (''+n).split('').reduce(function(x, y) {return x + Math.pow(+y, (''+n).length)}, 0)
+    return n == splitNumber(n).reduce(function(x, y) {return x + Math.pow(+y, (''+n).length)}, 0)
 }
 
 /**
