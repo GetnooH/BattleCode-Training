@@ -2,19 +2,19 @@
  * Created by Benjamin on 23/01/2016.
  */
 //  =============================
-//  Exercice 2 – Nombres Premiers
+//  Exercice 2 â€“ Nombres Premiers
 //  =============================
 //
-//  Rechercher des nombres premiers entre 2 bornes fournies. Indiquer leur valeur et les dénombrer.
+//  Rechercher des nombres premiers entre 2 bornes fournies. Indiquer leur valeur et les dÃ©nombrer.
 //
 //      Exemple pour la borne minimum valeur 5 et la borne maximum de valeur 12.
 //  Indiquer:
 //      "il y a 3 nombres premiers"
 //  "les valeurs sont 5, 7, 11"
 //
-//  Donner les réponses pour les bornes :
-//      - 18 à 38
-//  - 123 à 234
+//  Donner les rÃ©ponses pour les bornes :
+//      - 18 Ã  38
+//  - 123 Ã  234
 
 var primes = require('../Primes/primes.js');
 var min = 123;

@@ -9,7 +9,7 @@ module.exports = {
 };
 
 /**
- * Pour les nombres de 1 à n, retourne ceux qui sont dit de Armstrong.
+ * Pour les nombres de 1 Ã  n, retourne ceux qui sont dit de Armstrong.
  * @param n
  */
 function armstrongs(n) {
@@ -25,7 +25,7 @@ function armstrongs(n) {
 
 /**
  * Indique si un nombre est dit de Armstrong
- * @param n Entier à tester
+ * @param n Entier Ã  tester
  */
 function isArmstrong(n) {
     // Cas particulier du 0
@@ -51,7 +51,7 @@ function isArmstrong(n) {
 }
 
 /**
- * Pour les nombres de 1 à n, retourne ceux qui sont dit Narcisiques.
+ * Pour les nombres de 1 Ã  n, retourne ceux qui sont dit Narcisiques.
  * @param n
  */
 function narcissistics(n) {

@@ -29,7 +29,7 @@ function getPrimesInBetween(min, max) {
 }
 
 /**
- * Fonction crible retourne un tableau de 0 à m indiquant les chiffres premiers par true
+ * Fonction crible retourne un tableau de 0 Ã  m indiquant les chiffres premiers par true
  * @param m
  * @returns {boolean[]}
  */

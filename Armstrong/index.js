@@ -1,8 +1,8 @@
 //======================
-//    Exercice 1 – Armstrong
+//    Exercice 1 â€“ Armstrong
 //======================
 //
-//    Un nombre est dit de Armstrong (ou narcissique) un entier naturel qui est égal à la somme des cubes des chiffres qui le composent.
+//    Un nombre est dit de Armstrong (ou narcissique) un entier naturel qui est Ã©gal Ã  la somme des cubes des chiffres qui le composent.
 //    Par exemple 153 (153 = 1^3 + 5^3 + 3^3) est un nombre de Armstrong.
 //    Combien de nombre de Armstrong sont compris entre 0 et 10.000 ?
 
