@@ -8,7 +8,14 @@
 
     console.log("Start...");
 
-    /*ASCII - UTF8 - base64*/
+    /*
+        ascii
+        base64
+        binary
+        hex
+        ucs2/ucs-2/utf16le/utf-16le
+        utf8/utf-8
+     */
     /*   var file = fs.readFile('./Decryptor/input/textCypher1.txt', 'ascii', function (err, data) {
      if (err) throw err;
      console.log(data.replace(/-\*!/g, os.EOL));

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/Armstrong/armstrong.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Armstrong/index.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Circles/geometry.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Circles/index.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/DateDeltas/dateutils.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Palindrome/index.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Primes/index.js" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
