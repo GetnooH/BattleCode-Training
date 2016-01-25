@@ -10,9 +10,18 @@ module.exports = {
 };
 
 function howmanydays(date){
-    var ref = new Date(date.getYear() + '/' + (date.getMonth()+2) + '/01');
+
+    var ref = new Date(date.getYear() + '/' + (date.getMonth()+1) + '/01');
+    ref.setMonth(date.getMonth() +1);
     var res = new Date(ref - 1);
 
-    return res.getDate();
+    var days = res.getDate();
+
+    if (days%2==0){
+        return days - 2*(date.getMonth()+1);
+    } else {
+        return days - 2*(date.getMonth()+1) + 3;
+    }
+
 }
 
